@@ -1,2 +1,25 @@
 # LaSalle Duct Cleaning
-HVAC services in Ontario.
+
+> LaSalle Duct Cleaning is a local HVAC company serving LaSalle, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 457-0509  |  Email: contact@lasalleductcleaning.ca  |  Website: https://lasalleductcleaning.ca
+
+## Key pages
+
+- [Home](https://lasalleductcleaning.ca/): LaSalle Duct Cleaning homepage with service overview and FAQ
+- [About](https://lasalleductcleaning.ca/about/): About the company and service area
+- [Contact](https://lasalleductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://lasalleductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in LaSalle, Ontario
+- [Dryer Vent Cleaning](https://lasalleductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in LaSalle, Ontario
+- [Furnace & AC Cleaning](https://lasalleductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in LaSalle, Ontario
+- [HRV & Ventilation Cleaning](https://lasalleductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in LaSalle, Ontario
+- [Duct Sanitizing & Deodorizing](https://lasalleductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in LaSalle, Ontario
+- [Duct Sealing & Repair](https://lasalleductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in LaSalle, Ontario
+- [Commercial Duct Cleaning](https://lasalleductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in LaSalle, Ontario
+
+## FAQ
+
+Common questions about HVAC service in LaSalle are answered on the homepage.
